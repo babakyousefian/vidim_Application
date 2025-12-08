@@ -1,2 +1,6 @@
-# vidim_Application
-video and image processing application algorithm
+# ___```R-RANSAC within SPRT``` for real-time video and image processing Algorithm___ 
+---
+
+---
+
+
